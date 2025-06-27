@@ -1,4 +1,4 @@
-# My Portfolio – Expense Tracker Script
+# My Portfolio – Messy CSV Cleanup
 
 This is a Python script that cleans up messy expense data from a CSV file and gives back:
 
