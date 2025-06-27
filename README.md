@@ -1,12 +1,12 @@
 # My Portfolio – Messy CSV Cleanup
 
-This is a Python script that cleans up messy expense data from a CSV file and gives back:
+Soo, This is a Python script that cleans up messy expense data from a CSV file and gives back:
 
 - A Clean Excel Sheet
 - A Bar Chart of Category-wise Spending
 - A Text Summary with Total + Top 3 Categories (₹-wise)
 
-## What it does
+## Now What it does
 
 - Removes Stuff like ₹, Rs, $, commas from the amount column
 - Fixes typos in Categories (like "Transpot" → "Transport")
@@ -14,7 +14,7 @@ This is a Python script that cleans up messy expense data from a CSV file and gi
 - Drops any rows with missing values in Date, Amount or Category
 - Groups expenses by category and calculates totals
 
-## Output files
+## Output Files
 
 - `cleaned_sheet.xlsx` – cleaned-up Excel report
 - `chart_exp.png` – bar chart of spending per category
