@@ -2,16 +2,16 @@
 
 This is a Python script that cleans up messy expense data from a CSV file and gives back:
 
-- A clean Excel sheet
-- A bar chart of category-wise spending
-- A text summary with total + top 3 categories
+- A Clean Excel Sheet
+- A Bar Chart of Category-wise Spending
+- A Text Summary with Total + Top 3 Categories (₹-wise)
 
 ## What it does
 
-- Removes stuff like ₹, Rs, $, commas from the amount column
-- Fixes typos in categories (like "Transpot" → "Transport")
-- Parses weird date formats properly
-- Drops any rows with missing values in date, amount or category
+- Removes Stuff like ₹, Rs, $, commas from the amount column
+- Fixes typos in Categories (like "Transpot" → "Transport")
+- Parses weird Date Formats properly
+- Drops any rows with missing values in Date, Amount or Category
 - Groups expenses by category and calculates totals
 
 ## Output files
