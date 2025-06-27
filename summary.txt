@@ -1,0 +1,8 @@
+Expense Summary Report
+=========================
+Total Spend: ₹4125.50
+
+Top 3 Categories:
+- Food: ₹2200.00
+- Books: ₹750.50
+- Groceries: ₹650.00
